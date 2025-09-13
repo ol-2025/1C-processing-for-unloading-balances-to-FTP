@@ -39,6 +39,8 @@
 
 1С:Предприятие 8.3.20+
 
+[Скачать обработку (.epf)](https://github.com/ol-2025/1C-processing-for-unloading-balances-to-FTP/raw/main/ВыгрузкаОстатковНаFTP.epf)
+
 Протестированно УНФ 3.0(ДЕМО)
 
 Нажмите "Сформировать файл" для создания XML
