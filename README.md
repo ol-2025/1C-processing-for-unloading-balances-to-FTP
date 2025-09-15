@@ -39,6 +39,9 @@
 
 1С:Предприятие 8.3.20+
 
+### About
+This repository contains processing for 1C:Enterprise platform (1С:Предприятие) with unloading balances to FTP.
+
 
 Протестированно УНФ 3.0(ДЕМО)
 
